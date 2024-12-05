@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Juan 👋
+
+Welcome to my GitHub! I’m passionate about transforming data into actionable insights and leveraging artificial intelligence to solve real-world problems. Whether it’s training state-of-the-art models, crafting intelligent systems, or diving deep into data, I’m always up for a challenge.
+
+📊 My Github Stats
 
 Repos stats             |  Languages distribution
 :-------------------------:|:-------------------------:
