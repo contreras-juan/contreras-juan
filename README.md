@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Solarized dark             |  Solarized Ocean
+Repos stats             |  Languages distribution
 :-------------------------:|:-------------------------:
 ![contreras-juan's Stats](https://github-readme-stats.vercel.app/api?username=contreras-juan&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)  | ![contreras-juan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=contreras-juan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
