@@ -2,7 +2,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![contreras-juan's Stats](https://github-readme-stats.vercel.app/api?username=contreras-juan&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)  |  ![contreras-juan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=contreras-juan&theme=vue-dark&hide_border=false)
+![contreras-juan's Stats](https://github-readme-stats.vercel.app/api?username=contreras-juan&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)  | ![contreras-juan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=contreras-juan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **contreras-juan/contreras-juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
